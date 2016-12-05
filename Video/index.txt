@@ -1,0 +1,24 @@
+Video 1(Introduction):
+This video is describing about the Social Application Version 1.0 projects. It is the introductory section. It describes about the purpose of the project, the System and object model, the user stories and what we have done in each user story.
+
+
+
+Video 2 (User guide):
+In this video we have created how to upload the android app installed into mobile. How we can work on different features.
+
+Video 3(Admin):
+In this video we have created how to handle the database and report administration of the E-SToPP.org organization. 
+
+
+Video 4 (Installation and Maintenance):
+In this video we made how to create. apk file of android and install into production environment. 
+
+Video 5 (Shortcomings of the video):
+In this video we describe about the shortcomings of our task in all those sprints.
+Abbreviation:
+FIU: Florida International University
+UML: Unified Modelling language
+SCIS: School of Computing and Information System.
+Apk: Android Package Kit
+
+
